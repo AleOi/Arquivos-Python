@@ -6,3 +6,5 @@ Estela = POO.Animal("Animal","Borboleta")
 Estela.get_raca()
 Pedro.get_idade()
 Pedro.get_raca()
+
+#Comando pass é como se fosse abstract no matlab ou virtual do c++
