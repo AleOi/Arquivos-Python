@@ -1,1 +1,9 @@
 Primeiro  Treino Com Git
+
+Alguns comandos importantes:
+git brach
+git checkout nomeBranch
+git branch nome
+git branch -d nome (deleta)
+
+git log --oneline --decorate --all --graph
